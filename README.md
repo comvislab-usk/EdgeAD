@@ -17,7 +17,7 @@ Alya Irzan Ramadhani (Universitas Syiah Kuala), [Kahlil Muchtar (Universitas Syi
 </div><br>
 
 <p align="center">
-  <img style="width: 100%" src="media/workflow.png">
+  <img style="width: 80%" src="media/workflow.png">
 </p>
 
 <small>_Figure 1: Proposed Flowchart_</small>
